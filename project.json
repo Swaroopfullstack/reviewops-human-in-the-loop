@@ -1,0 +1,10 @@
+{
+  "title": "ReviewOps",
+  "repository": "reviewops-human-in-the-loop",
+  "description": "Durable LangGraph human review: authenticated reviewer decisions, version checks, audit history and idempotent report exports.",
+  "demo": "review",
+  "url": "https://github.com/Swaroopfullstack/reviewops-human-in-the-loop",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "03-reviewops",
+  "runtime": "vendored self-contained portfolio package"
+}
